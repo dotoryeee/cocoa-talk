@@ -21,3 +21,6 @@ a {
     text-decoration: none;
 }
 
+.main-screen {
+    padding: 0 var(--horizontal-space);
+}
