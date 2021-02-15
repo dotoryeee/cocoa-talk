@@ -21,12 +21,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: tomato;
-    width: 25px;
-    height: 25px;
-    border-radius: 50%;
-    font-weight: 600;
-    color: white;
     position: absolute;
     right: -10px;
     top: -20px;
