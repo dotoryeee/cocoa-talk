@@ -5,9 +5,12 @@
 /* components */
 @import "components/status--bar.css";
 @import "components/nav-bar.css";
+@import "components/screen-header.css";
 
 /* screens */
 @import "screens/login.css";
+@import "screens/friends.css";
+@import "components/user-component.css";
 
 body {
     font-family: 'Ubuntu', sans-serif;
