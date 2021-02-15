@@ -12,3 +12,32 @@
     display: flex;
     justify-content: space-between;
 }
+
+.nav__link{
+    position: relative;
+}
+
+.nav__notify {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: tomato;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    font-weight: 600;
+    color: white;
+    position: absolute;
+    right: -10px;
+    top: -20px;
+}
+
+.red__ball{
+    height: 10px;
+    width: 10px;
+    position: absolute;
+    background-color: tomato;
+    border-radius: 50%;
+    right: -9px;
+    top: -17px;
+}
